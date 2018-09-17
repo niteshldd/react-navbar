@@ -129,6 +129,18 @@ my-app/
     index.html
     favicon.ico
   src/
+    component/
+      Backdrop/
+        Backdrop.css
+        Backdrop.js
+      SideDrawer/
+        DrawerToggleButton.css
+        DrawerToggleButton.js
+        SideDrawer.css
+        SideDrawer.js
+      Toolbar/
+         Toolbar.css
+         Toolbar.js
     App.css
     App.js
     App.test.js
